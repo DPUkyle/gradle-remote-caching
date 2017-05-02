@@ -1,0 +1,6 @@
+rootProject.name = 'gradle-remote-caching'
+
+apply from: new File(settingsDir, 'gradle/buildCacheSettings.gradle')
+
+include ':foo'
+include ':bar'
