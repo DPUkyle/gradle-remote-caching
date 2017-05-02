@@ -26,5 +26,9 @@ In my case, I have a linux OS (UTF-8, naturally) and a Japanese Windows OS (MS93
     2. gradlew build
     3. assert results like: 
     ```
-    ???
+    22 tasks in build, out of which 6 (27%) were executed
+     6  (27%) up-to-date
+     8  (36%) no-source
+     2   (9%) loaded from cache
+     6  (27%) not cacheable
     ```
