@@ -32,3 +32,4 @@ In my case, I have a linux OS (UTF-8, naturally) and a Japanese Windows OS (MS93
      2   (9%) loaded from cache
      6  (27%) not cacheable
     ```
+ 5. Don't forget to purge/flush the remote cache between invocations!
